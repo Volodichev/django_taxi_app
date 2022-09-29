@@ -1,4 +1,10 @@
-ТЗ:
+
+
+<div id="header" align="center">
+  <a href="https://volodichev.com">
+    <img src="https://raw.githubusercontent.com/Volodichev/django_taxi_app/main/media/taxi_logo.png?token=GHSAT0AAAAAABV34TL72QKY5NO2G6J5A6L4YZVJ3VA" width="600"/>
+  </a>
+</div>
 
 С использованием языка python3, фреймворков Django и DRF выполнить проектирование и реализовать приложение, реализующее следующую функциональность:
 - аутентификация с использование имени пользователя и пароля;
